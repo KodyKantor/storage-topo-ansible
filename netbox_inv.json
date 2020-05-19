@@ -1,0 +1,177 @@
+{
+    "_meta": {
+        "hostvars": {
+            "stor0": {
+                "device_roles": [
+                    "storage"
+                ], 
+                "device_types": [
+                    "BIGBOX"
+                ], 
+                "manufacturers": [
+                    "SMCI"
+                ], 
+                "racks": [
+                    "rack0"
+                ], 
+                "sites": [
+                    "central-1a"
+                ]
+            }, 
+            "stor1": {
+                "device_roles": [
+                    "storage"
+                ], 
+                "device_types": [
+                    "BIGBOX"
+                ], 
+                "manufacturers": [
+                    "SMCI"
+                ], 
+                "racks": [
+                    "rack0"
+                ], 
+                "sites": [
+                    "central-1a"
+                ]
+            }, 
+            "stor2": {
+                "device_roles": [
+                    "storage"
+                ], 
+                "device_types": [
+                    "BIGBOX"
+                ], 
+                "manufacturers": [
+                    "SMCI"
+                ], 
+                "racks": [
+                    "rack0"
+                ], 
+                "sites": [
+                    "central-1a"
+                ]
+            }, 
+            "stor3": {
+                "device_roles": [
+                    "storage"
+                ], 
+                "device_types": [
+                    "BIGBOX"
+                ], 
+                "manufacturers": [
+                    "SMCI"
+                ], 
+                "racks": [
+                    "rack0"
+                ], 
+                "sites": [
+                    "central-1b"
+                ]
+            }, 
+            "stor4": {
+                "device_roles": [
+                    "storage"
+                ], 
+                "device_types": [
+                    "BIGBOX"
+                ], 
+                "manufacturers": [
+                    "SMCI"
+                ], 
+                "racks": [
+                    "rack0"
+                ], 
+                "sites": [
+                    "central-1b"
+                ]
+            }, 
+            "stor5": {
+                "device_roles": [
+                    "storage"
+                ], 
+                "device_types": [
+                    "BIGBOX"
+                ], 
+                "manufacturers": [
+                    "SMCI"
+                ], 
+                "racks": [
+                    "rack0"
+                ], 
+                "sites": [
+                    "central-1b"
+                ]
+            }, 
+            "stor6": {
+                "device_roles": [
+                    "storage"
+                ], 
+                "device_types": [
+                    "BIGBOX"
+                ], 
+                "manufacturers": [
+                    "SMCI"
+                ], 
+                "racks": [
+                    "rack0"
+                ], 
+                "sites": [
+                    "central-1c"
+                ]
+            }, 
+            "stor7": {
+                "device_roles": [
+                    "storage"
+                ], 
+                "device_types": [
+                    "BIGBOX"
+                ], 
+                "manufacturers": [
+                    "SMCI"
+                ], 
+                "racks": [
+                    "rack0"
+                ], 
+                "sites": [
+                    "central-1c"
+                ]
+            }, 
+            "stor8": {
+                "device_roles": [
+                    "storage"
+                ], 
+                "device_types": [
+                    "BIGBOX"
+                ], 
+                "manufacturers": [
+                    "SMCI"
+                ], 
+                "racks": [
+                    "rack0"
+                ], 
+                "sites": [
+                    "central-1c"
+                ]
+            }
+        }
+    }, 
+    "all": {
+        "children": [
+            "ungrouped"
+        ]
+    }, 
+    "ungrouped": {
+        "hosts": [
+            "stor0", 
+            "stor1", 
+            "stor2", 
+            "stor3", 
+            "stor4", 
+            "stor5", 
+            "stor6", 
+            "stor7", 
+            "stor8"
+        ]
+    }
+}

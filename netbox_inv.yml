@@ -1,0 +1,9 @@
+plugin: netbox
+api_endpoint: http://localhost:8000
+validate_certs: False
+config_context: False
+token: 0123456789abcdef0123456789abcdef01234567
+query_filters:
+  - site: central-1a
+  - site: central-1b
+  - site: central-1c
